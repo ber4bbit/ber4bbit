@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋 , my name is Egor Mikhaylov</h1>
 <h3 align="center">Student and beginner frontend developer from Russia 🇷🇺</h3>
 
-- 🔭 I’m currently working on [Sea Wars the Game](https://github.com/ber4bbit/sea-wars-game)
+- 🔭 I’m currently working on pet-projects
 
 - 🌱 I’m currently learning **react, js, redux and node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ber4bbit?tab=repositories](https://github.com/ber4bbit?tab=repositories)
 
-- 📫 How to reach me **jabkadeveloper@vk.com**
+- 📫 How to reach me **ber4bbit@gmail.com** or telegram **@ber4bbit**
 
 - ⚡ Fun fact **My unversity program is "Information security specialist", but I love web-dev:D**
 
