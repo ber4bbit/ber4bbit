@@ -1,15 +1,12 @@
 <h1 align="center">Hello 👋 , my name is Egor Mikhaylov</h1>
-<h3 align="center">Student and beginner frontend developer from Russia 🇷🇺</h3>
 
-- 🔭 I’m currently working on pet-projects
+- 🔭 I’m currently working at web-agency TREG
 
-- 🌱 I’m currently learning **react, js, redux and node.js**
+- 🌱 I’m currently learning **react.js and next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ber4bbit?tab=repositories](https://github.com/ber4bbit?tab=repositories)
 
 - 📫 How to reach me **ber4bbit@gmail.com** or telegram **@ber4bbit**
-
-- ⚡ Fun fact **My unversity program is "Information security specialist", but I love web-dev:D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
