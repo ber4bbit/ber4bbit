@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 , my name is Egor Mikhaylov</h1>
 
-- 🔭 I’m currently working at Eltex
+- 🔭 I’m currently working at SoftMall
 
 - 👨‍💻 All of my projects are available at [https://github.com/ber4bbit?tab=repositories](https://github.com/ber4bbit?tab=repositories)
 
